@@ -1,0 +1,7 @@
+{
+  "name": "cs-screen-orientation2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
